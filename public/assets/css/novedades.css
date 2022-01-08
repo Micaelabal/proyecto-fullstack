@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    height:100%;
+    overflow-y: scroll;
+    font-family: 'Work Sans', sans-serif
+}
+
+h1{
+    font-size: 150px;
+    justify-content: center;
+    height: 40%;
+    width: 50%;
+    align-items: center;
+    margin:14%;
+}
+
+.style{
+    margin: 15%;
+    background-color: rgb(255, 132, 0);
+    height: 60%;
+    width: 70%;
+    border:1px ;
+    padding:2rem;
+    border-radius: 0.5rem;
+    position: static;
+ justify-content: center;
+    align-items: center;
+}
+
+
+

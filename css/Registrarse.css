@@ -1,0 +1,34 @@
+*{
+    Margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+        height:100%;
+        font-family: 'Work Sans', sans-serif;
+        overflow-y: scroll;
+    }
+    
+
+#fondocolor{  
+    height: 100%;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    background-color: rgba(245, 236, 236, 0.994);
+}
+
+
+.Bloque2{
+    margin: 15%;
+    background-color:rgb(250, 149, 41);
+    height: 65%;
+    width: 70%;
+    border:3px ;
+    padding:1rem;
+    border-radius: 0.5rem;
+    position: static;
+ justify-content: center;
+    align-items: center;
+ }
+
